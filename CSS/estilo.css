@@ -1,7 +1,7 @@
 #cachorro {
 	width: 8em;
-	margin-top: 400px;
-	margin-left: 100px;
+	margin-top: 95%;
+	margin-left: 10%;
 }
 
 #titulo{
@@ -10,8 +10,8 @@
 #casa {
 	width: 8em;
 	position: absolute;
-	top: 50px;
-	left: 1200px;
+	top: 2%;
+	left: 85%;
 }
 
 #campo {
